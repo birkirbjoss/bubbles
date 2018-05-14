@@ -1,0 +1,13 @@
+#app{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;;
+}
+
+#app div{
+    border-radius: 50%;
+    background-color: #bada22;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
